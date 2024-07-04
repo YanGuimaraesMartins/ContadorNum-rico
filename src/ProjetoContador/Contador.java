@@ -29,7 +29,7 @@ public class Contador {
 			throw new Exception("O primeiro número deve ser menor que o segundo");
 		} else
 			for (int i = 1; i <= contar; i++) {
-				System.out.println("Número " + i);
+				System.out.println("Imprimindo o número " + i);
 			}
 	}
 }
