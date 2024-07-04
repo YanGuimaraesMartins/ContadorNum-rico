@@ -32,5 +32,4 @@ public class Contador {
 				System.out.println("Número " + i);
 			}
 	}
-
 }
